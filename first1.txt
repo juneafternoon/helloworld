@@ -1,2 +1,3 @@
 新增文件
 新增文件并git add 后，如果执行git checkout  first1.txt 则会还原到add时的状态
+git commit后，如果执行git checkout  first1.txt 则会还原到commit时的状态
